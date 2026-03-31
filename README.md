@@ -4,7 +4,7 @@ A script that fix the chat being jumped to bottom randomly
 # Install
 Requires
 - Tampermonkey / Greasemonkey
-Install link
+- Install link
 https://github.com/hyther1111/emq-chat-fix/raw/refs/heads/main/emq-chat-fix.user.js
 
 # What does this script do
