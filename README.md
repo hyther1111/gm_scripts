@@ -7,4 +7,4 @@ A script that fix the chat being jumped to bottom randomly
 - The chat stays still for all other messages (e.g. room settings/pauses/messages from other players)
 
 # Possibly existing bugs (not tested yet so they could be not existed)
-- Have to reload when you create a room/start quiz/end quiz/return to room
+- Have to refresh the page when you create a room/start quiz/end quiz/return to room
