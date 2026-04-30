@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         EMQ Chat Fix
-// @namespace    https://erogemusicquiz.com
+// @namespace    https://github.com/hyther1111
 // @version      2.0
 // @description  Fixed chat keeps jumping to bottom randomly. This script fixes it when other people's messages sent, the chat stays still, when you send a message yourself, it jumps to bottom
 // @author       Hyther
